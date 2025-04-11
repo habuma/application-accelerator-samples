@@ -14,7 +14,7 @@ In order to further develop this application the following tools needs to be set
 - Tanzu Developer Tools plugin for the mentioned IDE
 
 ## Build
-In order to compile the production code:
+In order to compile the production code: 
 
 ```sh
 ./mvnw clean compile
